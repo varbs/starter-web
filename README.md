@@ -20,6 +20,8 @@ or even local file system.
 
 ##How to Contribute
 
+Please fork this repository and then issue a Pull request for review.
+
 ###Copyright
 
 Copyright 2014 Git.Training
