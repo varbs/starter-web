@@ -22,4 +22,4 @@ or even local file system.
 
 ###Copyright
 
-2014 Git.Training
+Copyright 2014 Git.Training
