@@ -25,4 +25,4 @@ Please fork this repository and then issue a Pull request for review.
 
 ###Copyright
 
-Copyright 2014 Git.Training
+Copyright 2014 Git.Training. All rights reserved.
